@@ -43,6 +43,8 @@ Learned about some major analytical visuals and reports.
  
  
  ![sales_dashboard](https://user-images.githubusercontent.com/65107802/221371124-cf751e60-87b3-43dc-b6f1-32f511ab6166.png)
+ 
+
 
  
 
